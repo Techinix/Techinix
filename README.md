@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Techinix
+- 👋 Hi, I’m @Techinix, Multidisciplinary Engineering student at @Ecole Polytechnique de Tunisie .
 - 👀 I’m interested in AI  and related applications in robotics/engineering.
 - 🌱 I’m currently learning computer vision and nlp.
-- 💞️ I’m looking to collaborate on upcoming competitions
+- 💞️ I’m looking to collaborate on upcoming competitions in the data science field.
 - 📫 Contact me on : https://www.linkedin.com/in/jaadari-fadi-62b649182/ or through mail : zeko12800@gmail.com
 
 <!---
